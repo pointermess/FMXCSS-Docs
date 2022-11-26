@@ -10,6 +10,14 @@ fit the Firemonkey styling system. If
 you know css and the Firemonkey styling
 system, you should be able to use FMXCSS.
 
+The system is in a very early concept stage
+and the executable was provided only at
+selected places to receive direct feedback.
+
+If you want to read more about the potential 
+future of this project, please rdfer to
+the Roadmap. 
+
 ### Features
 
 - CSS like syntax / FMXCSS Syntax
@@ -18,6 +26,19 @@ system, you should be able to use FMXCSS.
 - Object Inheritance and Overwrites
 - Built-in "macros"
 - Export to FMX .style file
+
+### Getting Started
+
+Before you use the FMXCSS concept
+application, I recommend reading following 
+documents:
+
+- FMXCSS Syntax
+- FMXCSS Elements and Properties
+
+If you want to see a more or less "extensive" 
+stylesheet of the example below, follow
+this link: tbd
 
 ## Example Styles
 
